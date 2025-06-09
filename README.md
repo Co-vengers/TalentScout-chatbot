@@ -23,7 +23,7 @@ talent_scout_chatbot/
 ## Setup & Installation
 1. **Clone the Repository**
    ```sh
-   git clone <your-repo-url>
+   git clone git@github.com:Co-vengers/TalentScout-chatbot.git
    cd talent_scout_chatbot
    ```
 2. **Install Dependencies**
