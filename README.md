@@ -60,7 +60,8 @@ talent_scout_chatbot/
 - The application is suitable for privacy-sensitive environments.
 
 ## License
-This project is for internal use by TalentScout and is not intended for commercial redistribution.
+
+_No license. This project is not licensed for public or commercial use._
 
 ## Contact
 For support or questions, contact the TalentScout development team.
